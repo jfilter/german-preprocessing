@@ -1,4 +1,4 @@
-# German Preprocessing
+# German Preprocessing [![Build Status](https://travis-ci.com/jfilter/german-preprocessing.svg?branch=master)](https://travis-ci.com/jfilter/german-preprocessing) [![PyPI](https://img.shields.io/pypi/v/german.svg)](https://pypi.org/project/german/) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/german.svg)](https://pypi.org/project/german/)
 
 Preprocess German texts to do some serious natural-language processing.
 
@@ -9,7 +9,7 @@ Preprocess German texts to do some serious natural-language processing.
 
 ## Installation
 
-`pip install git+https://github.com/jfilter/german-preprocessing#egg=german`
+`pip install german`
 
 ## Usage
 
