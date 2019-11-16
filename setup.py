@@ -12,7 +12,7 @@ classifiers = [
 
 setup(
     name="german",
-    version="0.0.0",
+    version="0.1.0",
     description="Preprocess German texts for serious NLP.",
     long_description=long_description,
     long_description_content_type="text/markdown",
